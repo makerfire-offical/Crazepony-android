@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="search_btn_pressed">#D6D6D6</drawable>
+    <drawable name="search_btn_normal">#F8F8F8</drawable>
+
+</resources>
